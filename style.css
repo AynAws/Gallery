@@ -3,3 +3,12 @@
     background-position: center center;
     background-color: black;
 }
+
+icon:hover {
+    width:200%;
+    height:200%;
+}
+
+.card {
+    margin: 35px;
+}
