@@ -12,3 +12,7 @@ icon:hover {
 .card {
     margin: 35px;
 }
+
+.title {
+    text-align: center;
+}
