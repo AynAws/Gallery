@@ -16,3 +16,8 @@ icon:hover {
 .title {
     text-align: center;
 }
+
+.bottom {
+    position: relative;
+    bottom: 0;
+}
